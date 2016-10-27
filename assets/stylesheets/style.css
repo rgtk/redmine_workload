@@ -30,6 +30,10 @@ legend {
  * Styles for the header of the gantt diagram.
  ******************************************************************************/
 
+.controller-work_load .data {
+  margin-bottom: 15px;
+}
+
 /* Column width if no data is displayed */
 .controller-work_load .data .day-of-month,
 .controller-work_load .data .day-of-week {
